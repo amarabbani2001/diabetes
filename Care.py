@@ -20,7 +20,7 @@ import seaborn as sns
 
 
 #loading Dataset
-df = pd.read_csv("/Users/amarabbani/Downloads/diabetic_data.csv")
+df = pd.read_csv("diabetic_data.csv")
 
 print(df)
 
